@@ -1,0 +1,30 @@
+.a {
+  background-color: whitesmoke;  
+   justify-content: left;
+   text-align: left; 
+   /* text-align: center; */
+  width: 26%;
+  margin: auto;
+  padding: 5x;
+  border-radius: 25px;
+}
+ div> h1{
+    margin-left: 50px;
+    
+
+}
+.b {
+    background-color: whitesmoke; 
+    padding: 15px;
+    width: 20%; 
+    color: black;
+    margin-top: 20px; 
+    border: 1px solid whitesmoke;
+    border-radius: 25px;
+}
+.c {
+    padding: 15px;
+    margin-left: 20px;
+    border-radius: 16px;
+    border: 1px solid whitesmoke;
+}
